@@ -2,7 +2,7 @@
 {
     public static class ModHelperData
     {
-        public const string WorksOnVersion = "34.3";
+        public const string WorksOnVersion = "36.3";
         public const string Version = "1.0.0";
         public const string Name = "No Dartling RNG";
         public const string Description =
